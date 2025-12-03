@@ -79,7 +79,7 @@ A production-ready RESTful API for a real-time multiplayer quiz game with intell
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/quiz-game-api.git
+git clone https://github.com/lalit2244/quiz-game-api.git
 cd quiz-game-api
 ```
 
@@ -484,8 +484,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@lalit2244](https://github.com/lalit2244)
+- LinkedIn: [Lalit Patil](https://linkedin.com/in/lalit-patil-330882256)
 
 ## 🙏 Acknowledgments
 
